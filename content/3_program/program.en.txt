@@ -1,0 +1,33 @@
+Title: Program
+----
+TopHeading: Our program prepare girls for IT through mentoring events, workshops, and advocacy
+----
+SubHeading1: Non-formal education
+----
+Parag1: We offer non-formal IT and STEM workshop activities to girls primarily from rural areas
+----
+YoutubeVid:  <iframe src="https://www.youtube.com/embed/dgOLafgeHEc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="radius-md"></iframe>
+----
+SubHeading2: Spring bootcamp
+----
+Parag2: After school program for girls to explore and learning coding in a fun and friendly environment
+----
+SubHeading3: Summer STEM camp
+----
+Parag3: 10 days of IT education, personal development and career orientation training for 60 girls
+----
+SubHeading4: Autumn bootcamp
+----
+Parag4: After school program for girls to explore and learning coding in a fun and friendly environment
+----
+PhotoHeading: Photos of our education camps
+----
+PhotoText1: Presentation of 3D printing project at GirlsGoIT Summer STEM camp in 2019
+----
+PhotoText2: How Web Works Workshop at GirlsGoIT Summer STEM camp in 2018
+----
+PhotoText3: Closing ceremony at GirlsGoIT summer STEM camp in 2017
+----
+PhotoText4: GirlsGoIT summer STEM camp 2016
+----
+

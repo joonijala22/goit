@@ -1,0 +1,6 @@
+Title: Community-faq
+----
+heading: Frequently Asked Question
+----
+text1: Coming soon. You can check back later
+----

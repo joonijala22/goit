@@ -1,0 +1,37 @@
+Title: Partners
+
+----
+
+Heading: Partners
+
+----
+
+Text1: National partner
+
+----
+
+Text2: Program Funded by
+
+----
+
+Text3: Education partners
+
+----
+
+Text4: Internship Partners
+
+----
+
+Seotitle: Partners
+
+----
+
+Seotags: partners
+
+----
+
+Seometa: Goit Partners
+
+----
+
+Shareimage: 

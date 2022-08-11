@@ -1,0 +1,28 @@
+{
+  "name": "rastatux/kirbycomments",
+  "description": "File-based comments stored as subpages for the Kirby CMS, working for v3.",
+  "homepage": "https://gitlab.com/rastatux/kirbycomments",
+  "type": "kirby-plugin",
+
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Florian Pircher",
+      "email": "florian@addpixel.net",
+      "homepage": "https://github.com/Addpixel",
+      "role": "Developer"
+    },
+    {
+      "name": "Jonas Marx",
+      "email": "hallo@jonas-marx.com",
+      "homepage": "https://jonas-marx.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  },
+  "extra": {
+    "installer-name": "kirbycomments"
+  }
+}

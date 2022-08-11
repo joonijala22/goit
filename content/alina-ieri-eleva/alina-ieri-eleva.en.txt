@@ -1,0 +1,11 @@
+Title: alina-ieri-eleva
+----
+heading: IERI ELEVĂ, AZI INGINERĂ
+----
+videolink: <iframe class="radius-sm" width="560" height="315" src="https://www.youtube.com/embed/WmVxuy6z7T8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+----
+heading2: Alina: IERI ELEVĂ, AZI INGINERĂ
+----
+text1: Ieri, Alina Ciobanu era studentă la Colegiul ,,Iulia Hașdeu” din Cahul, astăzi, studiază la Universitatea Tehnică din Moldova - UTM, finalizând anul III de licență în cadrul Departamentului Inginerie Software și Automatică.
+----
+slanttext: Campania este o inițiativă a GirlsGoIT, program care a inițiat 623 fete în Dezvoltare Software, Inginerie și Electronică în 17 regiuni din Moldova.

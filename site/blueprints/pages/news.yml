@@ -1,0 +1,40 @@
+title: News
+icon: 📚
+
+tabs:
+  main pages:
+    columns:
+      left:
+        width: 1/2
+        sections:
+          drafts:
+            extends: sections/posts
+            headline: Drafts
+            status: draft
+
+          unlisted:
+            extends: sections/posts
+            headline: In Review
+            status: unlisted
+
+      right:
+        width: 1/2
+        sections:
+          listed:
+            extends: sections/posts
+            headline: Published
+            status: listed
+
+  contents: 
+    width: 1/3
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+          text1:
+            type: textarea
+          videolink:
+            type: textarea
+          

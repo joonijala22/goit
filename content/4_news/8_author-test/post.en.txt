@@ -1,0 +1,35 @@
+Title: Author test
+
+----
+
+Author:
+
+- OsKiruos
+
+----
+
+Heading: Gpoood
+
+----
+
+Intro: gfhgjhkjlk;l'
+
+----
+
+Published: 2020-12-23
+
+----
+
+Text1: ewffa
+
+----
+
+Videolink: 
+
+----
+
+Text2: WEDEDFASASSCAS
+
+----
+
+Tags: PODCAST

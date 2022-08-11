@@ -1,0 +1,111 @@
+Title: Event
+
+----
+
+Heading: Events & Workshop
+
+----
+
+Text1: This is a space to share news, stories, insights and featured contents. If you have something you would like to contribute to our blog
+
+----
+
+Videolink: <iframe class="radius-md" width="560" height="315" src="https://www.youtube.com/embed/tdqKjOJU7L0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+Heading2: Career Development with Crunchyroll
+
+----
+
+Text2: Get tips for writing a resume, networking, and achieving your career goals. Overcome barriers and turn your plans into action
+
+----
+
+Heading3: Career Guidance for High School Students by GoParrot
+
+----
+
+Text3: High school students need to start making critical decisions about their future career
+
+----
+
+Videolink2: <iframe class="radius-md" width="560" height="315" src="https://www.youtube.com/embed/WmVxuy6z7T8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
+
+Text4:
+
+<p>Direct access to active members of the IT community and to a clear, structured overview of the possibilities of these fields will help to assure a better-informed decision-making.</p>
+                <p>unaware of the broad array of educational and employment opportunities available to them.</p>
+
+----
+
+
+Seotitle: Events
+
+----
+
+Seotags: Upcoming programs, events, event
+
+----
+
+Seometa: dczsdsdcscz
+
+----
+
+Shareimage: 
+
+----
+
+Events:
+
+- 
+  image:
+    - apply-for-girlsgoit.jpg
+  eventtitle: assdsdsdvszvvssd
+  eventdate: 2020-12-17
+  eventtime: 10:00
+  eventlocation: google
+  eventdesc: just reg
+  reglink: google.com
+- 
+  image:
+    - remote-working.jpg
+  eventtitle: REMOTE WORKING
+  eventdate: 2021-01-22
+  eventtime: 2:00PM
+  eventlocation: zoom meeting
+  eventdesc: ssdsmmmklklklsds
+  reglink: kkvkzdskvfvfvdzsdf
+
+----
+
+Events2:
+
+- 
+  image:
+    - support-girlsgoit.jpg
+  eventtitle: IT is not only about programming
+  eventdate: 2020-11-28
+  eventtime: 10:00
+  eventlocation: Google Meet
+  eventdesc: >
+    This is a space to share news, stories,
+    insights and featured contents. If you
+    have something you would like to
+    contribute to our blog
+  reglink: google.com
+- 
+  image:
+    - remote-working.jpg
+  eventtitle: REMOTE WORKING
+  eventdate: 2021-01-22
+  eventtime: 2:00PM
+  eventlocation: zoom meeting
+  eventdesc: ssdsmmmklklklsds
+  reglink: kkvkzdskvfvfvdzsdf
+
+
+----
+

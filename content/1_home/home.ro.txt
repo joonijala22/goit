@@ -1,0 +1,37 @@
+Title: Home
+
+----
+
+Tophead: We are a community program empowering girls in I
+
+----
+
+Headline1: Our program
+
+----
+
+Text1: Learn more about our seasonal education programs and national campaigns inspiring girls in IT
+
+----
+
+Headline2: Community news
+
+----
+
+Text2: Stay up to date with latest news and opportunities, inspiring stories and podcast shows for girls in IT
+
+----
+
+Seotitle: Home
+
+----
+
+Seotags: Goit, goit website
+
+----
+
+Seometa: Goit
+
+----
+
+Shareimage: 

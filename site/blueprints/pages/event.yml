@@ -1,0 +1,152 @@
+title: event 
+
+tabs:
+  main:
+    width: 1/3
+    sections:
+      content:
+        type: fields
+        fields:
+          heading:
+            type: text
+            label: Event Page Title
+          text1:
+            type: textarea
+            label: Event Page Description
+          videolink:
+            type: textarea
+          heading2:
+            type: text
+            label: Event Title
+          text2:
+            type: textarea
+            label: Event description
+          eventlink:
+            type: url
+            label: Insert link (as it is shown in the page)
+          eventlogo: 
+            type: files
+            label: Add logo (as it is shown in the page)
+          heading3:
+            type: text
+            label: Workshop Title
+          text3: 
+            type: textarea
+            label: Workshop Description
+          videolink2:
+            type: textarea
+          text4:
+            type: textarea
+            label: Workshop Text
+          workshoplink:
+            type: url
+            label: Insert link (as it is shown in the page)
+          workshoplogo: 
+            type: files
+            label: Add logo (as it is shown in the page)
+          
+          
+  
+
+  # seo tab
+  seo:
+    label:                  SEO
+    icon:                   search
+    columns:
+      # SEO Meta
+      left:
+        width:              2/3
+        sections:
+          seocontent:
+            type:           fields
+            fields:
+              extends:      fields/seo/meta
+
+      # Share Image
+      right:
+        width:              1/3
+        sections:
+          seomedia:
+            type:           fields
+            fields:
+              shareimage:
+                label:      Share Image
+                type:       files
+                uploads:
+                  template: shot
+                width:      1/3
+                max:        1
+                info:       "{{ file.dimensions }}"
+                image:
+                  ratio:    2/1
+      
+          
+  IMG:
+    width: 1/3
+    sections:
+      section2:
+        type: files
+        layouts: cards
+  
+  
+  Events:
+    sections:
+    fields:
+      Events:
+        label: Events
+        type: structure
+        sectionField: section
+        fields:
+          image:
+            label: Image
+            type: files
+          eventtitle:
+            label: Event Title
+            type: text
+          eventdate:
+            label: Event Date
+            type: date
+          eventtime:
+            label: Event Time
+            type: text
+          eventlocation:
+            label: Event Venue
+            type: text
+          eventdesc:
+            label: Event Description
+            type: textarea
+          registerlink:
+            label: Event Registration
+            type: url
+
+  workshop:
+    sections:
+    fields:
+      workshop:
+        label: Workshop
+        type: structure
+        sectionField: section
+        fields:
+          image:
+            label: Image
+            type: files
+          eventtitle:
+            label: Event Title
+            type: text
+          eventdate:
+            label: Event Date
+            type: date
+          eventtime:
+            label: Event Time
+            type: text
+          eventlocation:
+            label: Event Venue
+            type: text
+          eventdesc:
+            label: Event Description
+            type: textarea
+          registerlink:
+            label: Event Registration
+            type: url
+
+  

@@ -1,0 +1,12 @@
+type: pages
+headline: Posts
+published: "{{ page.date.toDate('d.m.Y') }}"
+empty: No articles yet
+sortBy: date desc
+parent: kirby.page('news')
+template: post
+image:
+  query: page.images.template("cover").first
+  ratio: 3/2
+  cover: true
+info: "{{ page.year }}@

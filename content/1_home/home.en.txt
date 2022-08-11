@@ -1,0 +1,13 @@
+Title: Home
+
+----
+TopHead: We are a community program empowering girls in IT
+----
+Headline1: Our program
+----
+text1: Learn more about our seasonal education programs and national campaigns inspiring girls in IT
+----
+Headline2: Community news
+----
+text2: Stay up to date with latest news and opportunities, inspiring stories and podcast shows for girls in IT
+----

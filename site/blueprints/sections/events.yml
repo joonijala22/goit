@@ -1,0 +1,6 @@
+type: pages
+headline: Events
+parent: site.find("eve")
+sortBy: from desc
+template: eve
+empty: No events yet

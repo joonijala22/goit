@@ -1,0 +1,7 @@
+Title: Educational-gallery
+----
+heading: Gallery
+----
+text1: View photos of our education program
+----
+

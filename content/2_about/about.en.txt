@@ -1,0 +1,46 @@
+Title: About
+----
+Tophead: We are on the mission to build the largest community of girls in IT
+----
+WhatWeDo: What we do
+----
+SubHeading1: Education, workshops and events in IT and STEM 
+----
+Parag1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum.
+----
+SubHeading2: Inspiring stories and campaigns that advocate for more girls in IT
+----
+Parag2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum.
+----
+SubHeading3: Preparing girls for higher-education and career in IT and STEM
+----
+Parag3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum.
+----
+WhyGirls: Why girls in IT?
+----
+SubHeading4: girls and women are underrepresented on the workforce market. A study was conducted among <span class="color-contrast-higher font-bold">362 girls aged 14-18</span> from 5 administrative-territorial units
+----
+SubHeading5: The number of girls of 10-25 years and their share in educational institutions is decreasing steadily in the last four years
+----
+SubHeading6: The number of students in universities is decreasing in the last three years while the girls represent a bigger share than the boys
+----
+SubHeading7: The most popular areas of study in universities distribution is uneven, with more boys represent the vast majority in IT and Engineering fields
+----
+WhatWeDone: What we have done
+----
+DoneCount1: 1274
+----
+DoneText1: girls trained in front-end development, 3D printing and electronics
+----
+DoneCount2: 67
+----
+DoneText2: girls completed summer internships in IT companies
+----
+DoneCount3: 24
+----
+DoneText3: alumni employed full-time and part-time in IT companies
+----
+DoneCount4: 17
+----
+DoneText3: after-school local clubs led by girls in regions in Moldova
+----

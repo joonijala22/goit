@@ -1,0 +1,6 @@
+Title: Articles
+----
+heading: Articles
+----
+text1:  Articles here
+----

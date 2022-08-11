@@ -1,0 +1,35 @@
+Title: workshop post
+
+----
+
+Author:
+
+- 4MVjBswf
+
+----
+
+Heading: workshop Post test
+
+----
+
+Intro: workshop
+
+----
+
+Published: 2020-12-31
+
+----
+
+Text1: testing this
+
+----
+
+Videolink: 
+
+----
+
+Text2: dghjkl;'
+
+----
+
+Tags: workshop

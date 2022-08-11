@@ -1,0 +1,6 @@
+Title: featured
+----
+heading: Featured news
+----
+text1: GirlsGoIT and Edu Tolk are teaming to bring you educational contents online and interviews with people developing solutions that are shaping our future
+----

@@ -1,0 +1,9 @@
+Title: News
+----
+heading: Blog
+----
+text1: This is a space to share news, stories, insights and featured contents. If you have something you would like to contribute to our blog 
+----
+videolink: <iframe class="radius-sm" width="560" height="315" src="https://www.youtube.com/embed/HAsFI7q9GXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+----
+

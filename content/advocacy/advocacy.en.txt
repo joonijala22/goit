@@ -1,0 +1,6 @@
+Title: Advocacy
+----
+heading: IERI ELEVĂ, AZI INGINERĂ
+----
+text1: Campania este o inițiativă a GirlsGoIT, program care a inițiat 623 fete în Dezvoltare Software, Inginerie și Electronică în 17 regiuni din Moldova.
+----
